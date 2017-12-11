@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_project.iml" filepath="$PROJECT_DIR$/kotlin_project.iml" />
+      <module fileurl="file://C:\Users\px714404\Downloads\AndroidProject-master-544eb9681ffcdb52784aaf99396ed8661c9688ae\projet_pereira_clemence.iml" filepath="C:\Users\px714404\Downloads\AndroidProject-master-544eb9681ffcdb52784aaf99396ed8661c9688ae\projet_pereira_clemence.iml" />
+    </modules>
+  </component>
+</project>
